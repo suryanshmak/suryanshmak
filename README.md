@@ -1,4 +1,4 @@
-<img src="/public/ProfileBanner.gif" />
+<img src="https://github.com/suryanshmak/suryanshmak/blob/main/public/ProfileBanner.gif"  />
 
 **Hey there 👋, I'm Suryansh** - a student and software developer.
 
