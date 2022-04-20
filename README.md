@@ -1,4 +1,4 @@
-<img src="/public/ProfileBanner.png"  />
+<img src="/public/ProfileBanner.png" height="40" />
 
 **Hey there 👋, I'm Suryansh** - a student and software developer.
 
