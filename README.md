@@ -1,6 +1,7 @@
+## Hey there 👋
 <img src="/public/ProfileBanner.png" />
 
-**Hey there 👋, I'm Suryansh** - a student and software developer.
+###**I'm Suryansh** - a student and software developer.
 
 I like to program mainly in Typescript, Go and Rust.
 
