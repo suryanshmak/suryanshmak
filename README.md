@@ -1,9 +1,9 @@
-## Hey there 👋
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <img src="/public/ProfileBanner.png" />
 
 <h3>I'm Suryansh, a student and software developer.</h3>
 
-I like to program mainly in Typescript, Go and Rust.
+I like to help people build useful software. Program mainly in Typescript, Go and Rust.
 
 You can get in touch with me at:
 
