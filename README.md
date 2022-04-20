@@ -11,4 +11,6 @@ You can get in touch with me at:
 - Email - <a href="mailto:suryanshmak@duck.com">suryanshmak@duck.com</a>
 - Linkedin - <a href="https://linkedin.com/in/suryanshmak">suryanshmak</a>
 
+Why are you on [dark mode](https://github.com/settings/appearance#gh-dark-mode-only)[light mode](https://github.com/settings/appearance#gh-light-mode-only).
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
