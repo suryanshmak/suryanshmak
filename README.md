@@ -1,6 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" />
 <img src="https://github.com/suryanshmak/suryanshmak/blob/main/public/ProfileBanner.png" />
-<img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fsuryanshmak%2Fsuryanshmak%2Fblob%2Fmain%2Fpublic%2FProfileBanner.png" />
+
+<img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fsuryanshmak%2Fsuryanshmak%2Fblob%2Fmain%2Fpublic%2FProfileBanner.png" width="16" />
 
 <h3>I'm Suryansh, a student and software developer.</h3>
 
