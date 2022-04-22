@@ -2,6 +2,8 @@
 
 <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Fsuryanshmak%2Fsuryanshmak%2Fblob%2Fmain%2Fpublic%2FProfileBanner.png" />
 
+### Hey there 👋
+
 I like to help people build useful software. I program mainly in Typescript, Go and Rust.
 Founding engineer @[triffle](https://github.com/triffleco) and [internnova](https://github.com/internnova)
 
