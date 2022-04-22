@@ -6,7 +6,7 @@
 <h3>I'm Suryansh, a student and software developer.</h3>
 
 I like to help people build useful software. I program mainly in Typescript, Go and Rust.
-Founding engineer [triffle](https://github.com/triffle) and [internnova](https://github.com/internnova)
+Founding engineer @[triffle](https://github.com/triffleco) and [internnova](https://github.com/internnova)
 
 You can get in touch with me at:
 
