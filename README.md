@@ -11,7 +11,6 @@ You can get in touch with me at:
 
 - Twitter - <a href="https://twitter.com/suryanshmak">@suryanshmak</a>
 - Email - <a href="mailto:suryanshmak@duck.com">suryanshmak@duck.com</a>
-- Linkedin - <a href="https://linkedin.com/in/suryanshmak">suryanshmak</a>
 
 [Great, you're on dark mode.](https://github.com/settings/appearance#gh-dark-mode-only)[Why are you on light mode?](https://github.com/settings/appearance#gh-light-mode-only)
 
