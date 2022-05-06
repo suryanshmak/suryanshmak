@@ -4,8 +4,7 @@
 
 ### Hey there 👋, I'm Suryansh, a student and a full-stack developer.
 
-I like to help people build useful software. I program mainly in Typescript, Go and Rust.
-Founding engineer @[triffle](https://github.com/triffleco) and [internnova](https://github.com/internnova)
+I mainly program in Typescript, Go, Rust and Java.
 
 You can get in touch with me at:
 
