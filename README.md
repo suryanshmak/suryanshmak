@@ -1,4 +1,6 @@
-### Hey there 👋, I'm Suryansh, a student and a full-stack developer.
+### Hey there 👋
+
+### I'm Suryansh, a student and a full-stack developer.
 
 I mainly program in Typescript, Go, Rust and Java.
 
